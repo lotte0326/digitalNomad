@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Local data / build artifacts
+*.db
+*.sqlite
+*.sqlite3
